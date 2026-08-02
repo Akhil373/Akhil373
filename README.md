@@ -1,14 +1,12 @@
 Computer Science student | Interested in open-source contributions
 
-
-
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhil373&theme=radical&exclude=jupyter%20Notebook,html,css" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akhil373&layout=compact&hide=Jupyter%20Notebook,HTML,CSS" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil373&theme=radical" />
+      <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Akhil373&theme=light&column=3" />
     </td>
   </tr>
 </table>
